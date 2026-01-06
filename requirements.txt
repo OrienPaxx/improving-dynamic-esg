@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Modeling
+torch
+transformers
+datasets
+accelerate
+evaluate
+
+# NLP utils / augmentation (used in some experiments)
+nltk
+nlpaug
+
+# Visualization (optional, used in notebook)
+matplotlib
+seaborn
