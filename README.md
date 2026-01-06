@@ -1,5 +1,6 @@
 # Improving Dynamic ESG: Robust & Multilingual ESG Signal Detection from News Articles
-
+## GitHub Repository Link
+https://github.com/OrienPaxx/improving-dynamic-esg
 **Course:** Artificial Intelligence — Final Project (Week 17 Documentation & Submission)  
 **Student:** Lipika Basumatary (1127148)  
 **Teammate:** Cissy (1127192)
@@ -52,7 +53,7 @@ This repo expects the ESG‑FTSE JSON file:
 If you received it from the course / instructor, download it and place it in `data/` (the folder is gitignored).  
 If your course requires sharing a link instead of the file itself, add the official dataset link here:
 
-- Dataset link: **<PASTE OFFICIAL DATASET LINK HERE>**
+- Dataset link: - Dataset link: Provided via course materials (ESG-FTSE corpus)
 
 ## 5) How to Reproduce Results (Notebook)
 1. Ensure the dataset is available as `data/esg_ftse_corpus.json`.
